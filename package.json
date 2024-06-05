@@ -1,0 +1,11 @@
+{
+  "name": "nreact",
+  "version": "1.0.0",
+  "description": "Namaste React",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hari",
+  "license": "ISC"
+}
